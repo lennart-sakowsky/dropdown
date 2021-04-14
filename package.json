@@ -1,0 +1,14 @@
+{
+  "name": "dropdown",
+  "version": "1.0.0",
+  "description": "Simple dropdown on hover",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Lennart Sakowsky",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "*"
+  }
+}
